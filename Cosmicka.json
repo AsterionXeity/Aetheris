@@ -1,16 +1,16 @@
 {
     "manifest": {
         "version": "1.4.8",
-        "author": "–✦– 𝙆𝙖𝙞𝙧𝙤𝙯𝙪𝙑𝙏 –✦–#9999",
+        "author": "AsterionVT",
         "name": "Cosmicka",
-        "updater": "https:\/\/raw.githubusercontent.com\/ZeldrexK0DE\/Cosmicka\/main\/Kai_Cosmicka.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/AsterionXeity\/Aetheris\/main\/Cosmicka.json",
         "license": "GPL-3.0"
     },
     "background": {
         "blur_radius": 2
     },
     "fonts": {
-        "*": "https:\/\/github.com\/ZeldrexK0DE\/AliucordCosmicka\/blob\/main\/LexendDeca-Regular.ttf"
+        "*": "https:\/\/github.com\/AsterionXeity\/Aetheris\/blob\/main\/LexendDeca-Regular.ttf"
     },
     "simple_colors": {
         "active_channel": -930637854,
